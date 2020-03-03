@@ -110,6 +110,8 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 # Telegraph 
 TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", None)
 
+TELEGRAPHSHORTNAME = os.environ.get("TELEGRAPHSHORTNAME", None)
+
 # Default .alive name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
 
